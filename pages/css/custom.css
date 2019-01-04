@@ -1,0 +1,6 @@
+/*  [Default]  */
+@charset "utf-8";
+
+footer.main_footer article.ty02 p.emailMain a{color:#fff;font-weight:300; }
+/* 시큐어팝업 12_22 수정 */
+.secureB article .footB { width:100%;height:88px;margin:100px 0 0 0;background:url('../images/bot_upbit_secure0712.png') 0 0 no-repeat;overflow:hidden;text-indent:-999em; }
